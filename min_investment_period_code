@@ -1,5 +1,6 @@
 '''
-Code used to calculate the estimated minimum holding period using both excess returns & absolute returns. This code is used within the paper 'Quantifying Paitence'.
+Code used to calculate the estimated minimum holding period using both excess returns & absolute returns. 
+This code is used within the paper 'Quantifying Patience'.
 The paper can be found here: 
 '''
 
