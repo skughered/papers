@@ -1,3 +1,12 @@
+'''
+Code used to calculate the estimated minimum holding period using both excess returns & absolute returns. This code is used within the paper 'Quantifying Paitence'.
+The paper can be found here: 
+'''
+
+
+
+
+
 import numpy as np
 import pandas as pd
 from lifelines import KaplanMeierFitter
